@@ -19,3 +19,6 @@
 - Категории
 - Региону
 - Дополнительной категории
+
+![Dashboard](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module1/Dashboard.png?raw=true)
+[Таблица] (https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module1/Homework_Sample%20-%20Superstore.xlsx)
