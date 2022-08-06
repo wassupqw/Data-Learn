@@ -7,7 +7,8 @@
 - Storage Layer - слой хранения данных
 - Business Layer - слой для доступа к данным бизнес пользователей
 
-Построил с помощью draw.io.
+Построил с помощью draw.io
+[Файл](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module1/Homework_Архитектура%20Аналитического%20Решения.png)
 
 ![Image](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module1/Homework_Архитектура%20Аналитического%20Решения.png?raw=true)
 ## Аналитика в Excel
