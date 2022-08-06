@@ -8,6 +8,7 @@
 - Business Layer - слой для доступа к данным бизнес пользователей
 
 Построил с помощью draw.io.
+
 ![Image](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module1/Homework_Архитектура%20Аналитического%20Решения.png?raw=true)
 ## Аналитика в Excel
 
