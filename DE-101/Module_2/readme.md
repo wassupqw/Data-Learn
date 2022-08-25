@@ -22,7 +22,7 @@ Logical Model
 Physical Model - STAR
 ![схема](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module_2/2.4/physical.png)
 
-SQL creating:
+SQL:
 - [DDL](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module_2/2.4/ddl.sql)
 - [insert data](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module_2/2.4/insert%20data.sql)
 
