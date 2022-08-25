@@ -31,4 +31,6 @@ SQL:
 
 ## 2.5 - 2.6 Cloud DB Supabase and BI YandexDatalens
 
+![DataLens](https://github.com/wassupqw/Data-Learn/blob/main/DE-101/Module_2/2.5/DataLens.png)
+
 
